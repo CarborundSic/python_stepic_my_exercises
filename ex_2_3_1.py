@@ -13,4 +13,4 @@
 d = int(input())
 
 # здесь продолжите программу
-print( abs(d) )
+print(abs(d))
