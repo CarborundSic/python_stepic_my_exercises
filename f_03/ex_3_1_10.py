@@ -11,4 +11,7 @@
 
 
 word_one, word_two = input().split()
-print(word_one in word_two, word_one == word_two, word_one > word_two, word_one < word_two)
+print(word_one in word_two,
+      word_one == word_two,
+      word_one > word_two,
+      word_one < word_two)
